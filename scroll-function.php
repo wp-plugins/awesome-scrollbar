@@ -5,7 +5,7 @@ Plugin URI: http://www.hf-it.org/
 Description: This plugin will  create awesome custom ScroolBar in your wordpress site.You can change any settings of this ScrollBar from Option Panel.
 Author: HelpFull(HF) Institute
 Author URI: http://www.hf-it.org/
-Version: 1.1.0
+Version: 1.0
 */
 
     /* Adding Latest jQuery from Wordpress */
