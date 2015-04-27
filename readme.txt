@@ -39,10 +39,6 @@ e.g.
 
 == Changelog ==
 
-= 1.2 =
-* Added More option.
-* Added More style
-
 = 1.0 =
 * Initial Release
 
