@@ -11,6 +11,8 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 == Description ==
 
  This plugin will create awesome custom ScroolBar in your wordpress site.You can change any settings of this ScrollBar from Option Panel.
+ 
+ Demo: http://hf-it.org/plugins/
 
 
 == Installation ==
