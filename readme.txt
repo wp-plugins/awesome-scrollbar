@@ -27,16 +27,17 @@ e.g.
 
 == Screenshots ==
 
-1. Instaled Demo 
-2. Option Panel $ Settings
-3. Option Panel $ Settings details
-4. Live Demo 1
-5. Live Demo 2
-6. Preloader style variation
-7. Preloader Color Settings
-8. Preloader progress Bar style
-9. Live Demo 3
-10. Live Demo 4
+1.  Logo
+2.  Option Panel 
+3.  Option Panel &  Settings details
+4.  Unlimited Color
+5.  Live Demo 1
+6.  Live Demo 2
+7.  Live Demo 3
+8.  Live Demo 4
+9.  Live Demo 5
+10. Live Demo 6
+11. Live Demo 7
 
 
 == Changelog ==
