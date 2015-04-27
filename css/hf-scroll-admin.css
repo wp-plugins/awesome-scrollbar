@@ -1,0 +1,88 @@
+.disc {
+  background-color: #e5e5e5;
+  font-size: 13px;
+  margin-top: -23px;
+}
+.disc:hover {
+  background-color: #dddddd;
+}
+.mydescription {
+  background-color: #e5e5e5;
+  border: 2px dotted #a6a6a6;
+  border-radius: 4px;
+  padding: 6px;
+}
+.mydescription:hover {
+  background-color: #dddddd;
+
+}
+
+.hfplacestyle {
+  display: inline-flex;
+}
+.hfplace2 {
+  margin-top: -12px;
+  padding: 0 24px;
+  margin-left: -18px;
+}
+div.single_option span#hf_scrollstyle_def{
+    background-image: url(../img/hf_default.png);
+}
+div.single_option span#hf_style_1{
+    background-image: url(../img/hf_style_1.png);
+}
+div.single_option span#hf_scrollstyle_2{
+    background-image: url(../img/hf_scrollstyle_2.png);
+}
+.hf_saved {
+  float: right;
+  margin-right: 223px;
+}
+
+div.single_option{
+    float: left;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    border: 4px solid #f1f1f1;
+    background: #ddd;
+}
+div.single_option:active{border-color: #0074a2} 
+div.single_option.active, div.single_option[checked="checked"]{
+    border: 4px solid #0074a2;   
+}
+div.single_option label{
+    display: block;
+    padding: 2px;
+    text-align: center;
+    background: #ddd;       
+}
+
+
+div.single_option span.label_img{
+    display: block;
+    height: 55px;
+    width: 150px;    
+}
+.beefup{
+    overflow: hidden;
+    margin-bottom: 2px;
+}
+.beefup h2.beefup-head, .beefup1 h2.beefup-head, h3#sub{
+    background-color: #0074a2;border: 0px solid #0074a2;border-radius: 8px; color: #fff;padding: 5px 15px;margin-bottom: 10px;font-size: 15px;cursor: pointer;width: 615px;
+}
+
+.beefup h2.beefup-head:before, .beefup h3#sub:before {
+    content: "+";display: inline-block;margin-right: 10px;font-weight: 800px;width: 12px
+}
+.beefup.open.beefup h2.beefup-head:before, .beefup.open.beefup h3#sub:before{
+    content: "-";
+}
+#pro, .single-option{
+    overflow: hidden;
+}
+h2#p_color{
+    background-color: #0D7B9A;color: #eff;padding: 5px 10px;width: 400px;border-radius: 8px;font-size: 13px;
+}
+
