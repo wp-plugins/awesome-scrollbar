@@ -1,5 +1,5 @@
-=== HF-Preloader-Awesome  ===
-Tags: HF preloader awesome, free preloader,best preloader,wordpress preloader,wp preloader,awesome preloader,best wordpress preloader,free preloader.
+=== Awesome-WordPress-ScrollBar  ===
+Tags: ScrollBar   awesome, free ScrollBar  ,best ScrollBar ,wordpress ScrollBar  ,wp ScrollBar  ,awesome ScrollBar  ,best wordpress ScrollBar  ,free ScrollBar.
 Requires at least: 3.0.1
 Tested up to: 3.4
 Stable tag: 1.0
@@ -10,7 +10,8 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 
-This plugin will make awesome style when your Webpage loading. It will help you to stay visitor in your website and also increase your traffic.
+ This plugin will create awesome custom ScroolBar in your wordpress site.You can change any settings of this ScrollBar from Option Panel.
+
 
 == Installation ==
 
