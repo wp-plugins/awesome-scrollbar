@@ -2,7 +2,7 @@
 /*
 Plugin Name: Awesome-WordPress-ScrollBar
 Plugin URI: http://www.hf-it.org/
-Description: This plugin will  create awesome custom ScroolBar in your wordpress site.You can change any settings of this ScrollBar from Option Panel. For more,Please read the readme.txt file.
+Description: This plugin will  create awesome custom ScroolBar in your wordpress site.You can change any settings of this ScrollBar from Option Panel.
 Author: HelpFull(HF) Institute
 Author URI: http://www.hf-it.org/
 Version: 1.1.0
